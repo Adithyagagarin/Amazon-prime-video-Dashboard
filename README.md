@@ -1,6 +1,7 @@
 # Amazon Prime Video Dashboard
 
-A Power BI dashboard created to analyze movies and TV shows available on Amazon Prime Video.
+This project contains an interactive Power BI dashboard created to analyze the movies and TV shows available on Amazon Prime Video.
+The dashboard provides insights into content ratings, genres, countries, release years, and the distribution of Movies and TV Shows.
 
 ## Dashboard
 
