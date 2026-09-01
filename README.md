@@ -4,7 +4,7 @@ A Power BI dashboard created to analyze movies and TV shows available on Amazon 
 
 ## Dashboard
 
-![Amazon Prime Video Dashboard](image/Amazon prime video.png)
+![Amazon Prime Video Dashboard](image/amazon-prime-video.png)
 
 ## About the Dataset
 
