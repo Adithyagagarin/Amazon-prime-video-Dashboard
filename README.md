@@ -3,9 +3,36 @@
 This project contains an interactive Power BI dashboard created to analyze the movies and TV shows available on Amazon Prime Video.
 The dashboard provides insights into content ratings, genres, countries, release years, and the distribution of Movies and TV Shows.
 
+## Project Structure
+
+```text
+Amazon-prime-video-Dashboard/
+│
+├── dashboard/
+│   └── Amazon_Prime_Video_Dashboard.pbix       # Power BI dashboard file
+│
+├── dataset/
+│   └── amazon_prime_titles.csv                 # Raw dataset 
+│
+├── image/
+│   └── amazon-prime-video.png                  # Screenshot of the dashboard
+│
+└── README.md                                   # Project description and details
+```
+
 ## Dashboard
 
 ![Amazon Prime Video Dashboard](image/amazon-prime-video.png)
+
+Features of Dashboard
+
+- Data cleaning and preparation
+- Interactive Power BI dashboard
+- Movies vs TV Shows analysis
+- Content rating analysis
+- Genre analysis
+- Country-wise content distribution
+- Release year trends
 
 ## About the Dataset
 
